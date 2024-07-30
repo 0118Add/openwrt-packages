@@ -1,5 +1,5 @@
 {
-	"admin/services/cpu-perf": {
+	"admin/system/cpu-perf": {
 		"title": "CPU Performance",
 		"order": 10,
 		"action": {
